@@ -18,9 +18,8 @@ global.APIs = {
 	harn: 'https://hardianto.xyz',
 	xteam: 'https://api.xteam.xyz',
 	ryu: 'https://api-ryubotz.herokuapp.com',
-    bri: 'http://brizas-api.herokuapp.com',
+    bri: 'https://api.brizaloka-api.tk/',
 	vio: 'https://api.violetics.pw',
-    cnf: 'https://api-alc.herokuapp.com',
     lzm: 'https://lzmods-api.xyz',
     alfa: 'https://api.zeeoneofc.xyz',
     ley: 'https://leyscoders-api.herokuapp.com',
@@ -32,16 +31,15 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'hdiiofficial', // apikey
     'https://hardianto.xyz': 'hardianto',
-    'https://api.xteam.xyz': '5bd33b276d41d6b4',
-    'https://api-ryubotz.herokuapp.com': 'RyuBotz',
-    'http://brizas-api.herokuapp.com': 'brizaloka',
+    'https://api.xteam.xyz': 'tu api',
+    'https://api-ryubotz.herokuapp.com': 'tu api',
+    'https://api.brizaloka-api.tk/': 'tu api',
     'https://api.violetics.pw': 'beta',
-    'https://api.zeeoneofc.xyz': 'V12',
-    'https://api-alc.herokuapp.com': 'ConfuMods',
-    'https://lzmods-api.xyz': 'DPO3y2ML',
+    'https://api.zeeoneofc.xyz': 'tu api',
+    'https://lzmods-api.xyz': 'tu api',
     'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
-    'https://api.violetics.pw': 'aa26-83b1-4f6c',
-    'https://api.violetics.pw': '0567-17a1-1747',
+    'https://api.violetics.pw': 'tu api',
+    'https://api.violetics.pw': 'tu api',
 }
 
 //|⬡════════════════════════════════════════════|❝ Ⓒ𝑫͢𝜟𝑫͢𝑫𝒀 𝜝𝛳͢𝑇™ ❞|═══════════════════════════════════════════⬡|//	
